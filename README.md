@@ -36,7 +36,7 @@ Highlights:
 - Tool-driven architecture
 
 ➡️ Experimental branch:
-<https://github.com/anmolsharma152/CodexEngine/tree/agentic>
+<https://github.com/Onix045/CodexEngine/tree/agentic>
 
 ## Why This Project Exists
 
