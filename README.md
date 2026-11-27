@@ -54,7 +54,7 @@ CodexEngine started as a retrieval-augmented research system and is evolving int
 ## Quick Start
 
 ```bash
-git clone https://github.com/anmolsharma152/CodexEngine.git
+git clone https://github.com/Onix045/CodexEngine.git
 cd CodexEngine
 
 # Backend
